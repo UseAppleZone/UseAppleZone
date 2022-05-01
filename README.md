@@ -1,3 +1,3 @@
 ### Apple Zone
 
-1.0.0 Coming Soon
+1.0.1 Now Available
